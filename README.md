@@ -1,4 +1,4 @@
-# Twilio Function: Create Direct to Task SMS Chat
+# Twilio Function: Create Direct Outbound SMS Chat Task
 
 # Overview
 When an agent needs to send an outbound SMS message to a customer, it may be desired to have them send the message using the stock Flex UI chat interface.
